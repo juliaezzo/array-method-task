@@ -53,3 +53,15 @@
 // colors.shift();
 // console.log(colors);
 // console.log(colors.includes("yellow"));
+
+
+
+
+
+// 6:-Sort the cities alphabetically. 
+// -Print the index of a specific city after sorting (Damascus).
+
+// let cities = ["Damascus", "Aleppo", "Homs", "Latakia"];
+// cities.sort();
+// console.log(cities);
+// console.log(cities.indexOf("Damascus"));
