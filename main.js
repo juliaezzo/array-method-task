@@ -39,3 +39,17 @@
 // console.log(fruits);
 // fruits.pop("Mango")
 // console.log(fruits);
+
+
+
+
+
+// 5:Add a word at the beginning of the array, Remove the first element, Check if a specific word exists
+//  in the array.
+
+// let colors = ["red", "green", "blue"];
+// colors.unshift("yellow");
+// console.log(colors);
+// colors.shift();
+// console.log(colors);
+// console.log(colors.includes("yellow"));
