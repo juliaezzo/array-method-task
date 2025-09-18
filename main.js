@@ -17,3 +17,8 @@
 
 
 
+//  3. Reverse array and take first 4 elements
+// let nums = [10, 20, 30, 40, 50, 60];
+// console.log(nums.reverse());
+// let nums2 = nums.slice(0,4);
+// console.log(nums2);
